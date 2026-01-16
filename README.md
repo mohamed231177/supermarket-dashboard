@@ -13,3 +13,10 @@ This project involves a comprehensive analysis of supermarket sales data across 
 
 - dashboard interaction <a href=  "https://github.com/mohamed231177/supermarket-dashboard/commit/dbb2ddb7ffa1b9c89e6ad9ff703d6e2c798442a7">view dahboard </a>
 
+## process
+
+- Data Cleaning & ETL: Performed extensive data cleaning to handle missing values and "Blank" sub-categories while ensuring data type consistency.
+- Data Modeling (Star Schema): Designed a robust Star Schema by separating the dataset into:
+Fact Table: Containing transactional data (Sales, Profit, Quantity, Discounts).
+Dimension Tables: Creating specialized tables for Products, Customers, Geography, and Calendar.
+- DAX Calculations Developed custom DAX measures
