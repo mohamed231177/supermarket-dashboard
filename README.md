@@ -20,3 +20,8 @@ This project involves a comprehensive analysis of supermarket sales data across 
 Fact Table: Containing transactional data (Sales, Profit, Quantity, Discounts).
 Dimension Tables: Creating specialized tables for Products, Customers, Geography, and Calendar.
 - DAX Calculations Developed custom DAX measures
+
+## dashboard 
+<img width="1741" height="731" alt="page 1" src="https://github.com/user-attachments/assets/974bae40-1c2b-4bad-93b7-f53b134835bc" />
+<img width="1740" height="736" alt="page 2" src="https://github.com/user-attachments/assets/e1b6e805-5d68-403e-b6ad-ec84067e340e" />
+
